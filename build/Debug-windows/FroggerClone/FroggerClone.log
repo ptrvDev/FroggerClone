@@ -1,0 +1,17 @@
+﻿  FrogBase.cpp
+f:\game development\projects\froggerclone\froggerclone\src\frogbase.cpp(195): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+f:\game development\projects\froggerclone\froggerclone\src\frogbase.cpp(196): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+f:\game development\projects\froggerclone\froggerclone\src\frogbase.cpp(203): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\game development\projects\froggerclone\froggerclone\src\frogbase.cpp(210): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\game development\projects\froggerclone\froggerclone\src\frogbase.cpp(216): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\game development\projects\froggerclone\froggerclone\src\frogbase.cpp(222): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\game development\projects\froggerclone\froggerclone\src\frogbase.cpp(228): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  FroggerClone.vcxproj -> F:\Game Development\Projects\FroggerClone\FroggerClone\..\bin\Debug-windows\FroggerClone\FroggerClone.exe

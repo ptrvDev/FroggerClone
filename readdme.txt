@@ -1,0 +1,1 @@
+Run "RunPremake.bat" before opening the project in VS in order to configure the SFML directories
